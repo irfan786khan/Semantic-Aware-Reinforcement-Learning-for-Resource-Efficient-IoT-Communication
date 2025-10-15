@@ -180,12 +180,7 @@ EPS_DECAY = 0.995
 If you use this code in your research, please cite:
 
 ```bibtex
-@software{semantic_iot_rl,
-  title = {Semantic-Aware Reinforcement Learning for Resource-Efficient IoT Communication},
-  author = {Your Name},
-  year = {2024},
-  url = {https://github.com/your-repo/semantic-iot-rl}
-}
+will add soon 
 ```
 
 ## 🤝 Contributing
